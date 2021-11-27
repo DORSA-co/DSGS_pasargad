@@ -136,6 +136,7 @@
 	<Property Name="varPersistentID:{8EC65C59-02B3-461C-B34E-8EC2C08C4ECE}" Type="Ref">/My Computer/D01.lvlib/liveResultArray</Property>
 	<Property Name="varPersistentID:{925401FA-E9C2-40FE-9636-9495CEA1D4ED}" Type="Ref">/My Computer/database.lvlib/search</Property>
 	<Property Name="varPersistentID:{92FDB3D8-9C19-4044-A12B-699C5EE00C2A}" Type="Ref">/My Computer/D02.lvlib/GradingThrD02</Property>
+	<Property Name="varPersistentID:{93F6731E-5092-4927-BF4D-0140458B428F}" Type="Ref">/My Computer/control setting.lvlib/ControlInfoD06</Property>
 	<Property Name="varPersistentID:{9432DED5-8973-4944-8C6C-CCF6697F23D4}" Type="Ref">/My Computer/Maintenance.lvlib/error_13</Property>
 	<Property Name="varPersistentID:{9439883C-A32E-438F-A2D3-229DEC03D72A}" Type="Ref">/My Computer/control setting.lvlib/Error2DArray</Property>
 	<Property Name="varPersistentID:{9641C789-E165-4E38-B7F5-43AACABF5882}" Type="Ref">/My Computer/Calibration Lib.lvlib/calibration factor D05</Property>
@@ -148,7 +149,6 @@
 	<Property Name="varPersistentID:{9B6322A8-9BB3-4A6E-BFE4-67C58F89FDBF}" Type="Ref">/My Computer/Maintenance.lvlib/error_15</Property>
 	<Property Name="varPersistentID:{9B8E7BF8-C75E-4A25-A5E5-CE02F51CB868}" Type="Ref">/My Computer/Maintenance.lvlib/error_27</Property>
 	<Property Name="varPersistentID:{9DC6BC6D-7080-4528-827A-7DF80396EFA1}" Type="Ref">/My Computer/Maintenance.lvlib/error_87</Property>
-	<Property Name="varPersistentID:{9DE5A175-F5B5-4AFD-9878-5C05F3297C52}" Type="Ref">/My Computer/control setting.lvlib/ControlInfoD06</Property>
 	<Property Name="varPersistentID:{9F86D8FE-11C4-44D6-84D9-FF60A7EF6D83}" Type="Ref">/My Computer/D03.lvlib/projector 03</Property>
 	<Property Name="varPersistentID:{A0CD2C5B-C48F-4362-B1B3-2AC7EA76F92D}" Type="Ref">/My Computer/User Lib.lvlib/Is Dorsa?</Property>
 	<Property Name="varPersistentID:{A1D28A83-38C4-401C-A69E-065F66AE4100}" Type="Ref">/My Computer/Maintenance.lvlib/error_110</Property>

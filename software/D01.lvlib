@@ -95,7 +95,7 @@
 		<Property Name="type" Type="Str">Global</Property>
 		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"E!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="TrendsD26.vi" Type="VI" URL="../TrendsD26.vi"/>
+	<Item Name="TrendsD01.vi" Type="VI" URL="../TrendsD01.vi"/>
 	<Item Name="TrendsThisVID01" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>

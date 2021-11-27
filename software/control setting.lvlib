@@ -49,6 +49,15 @@
 		<Property Name="type" Type="Str">Global</Property>
 		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$]_!!!!"E!A!!!!!!*!"*!)1RE:7.S:7&amp;T:3"%-T!!!"*!)1RJ&lt;G.S:7&amp;T:3"%-T!!!"*!)1VO&lt;S"D;'&amp;O:W5A2$-Q!":!)2&amp;T&gt;72E:7YA9WBB&lt;G&gt;F)%1T-!!41!I!$7RB=X1A:8*S&lt;X)A-T!!'5!+!".Q=G6W;7^V=W5A=X"F:71A2$-Q!"6!#A!0=(6M=W5A&gt;WFE&gt;'AA2$-Q!!^!#A!*=WRP='5A2$-Q!#B!5!!)!!!!!1!#!!-!"!!&amp;!!9!"R"D&lt;WZU=G^M)'FO:G]A2$-Q!!!"!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="ControlInfoD06" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$]_!!!!"E!A!!!!!!*!"*!)1RE:7.S:7&amp;T:3"%-$9!!"*!)1RJ&lt;G.S:7&amp;T:3"%-$9!!"*!)1VO&lt;S"D;'&amp;O:W5A2$!W!":!)2&amp;T&gt;72E:7YA9WBB&lt;G&gt;F)%1Q.A!41!I!$7RB=X1A:8*S&lt;X)A-$9!'5!+!".Q=G6W;7^V=W5A=X"F:71A2$!W!"6!#A!0=(6M=W5A&gt;WFE&gt;'AA2$!W!!^!#A!*=WRP='5A2$!W!#B!5!!)!!!!!1!#!!-!"!!&amp;!!9!"R"D&lt;WZU=G^M)'FO:G]A2$!W!!!"!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="Error2DArray" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
