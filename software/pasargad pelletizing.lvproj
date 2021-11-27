@@ -148,6 +148,7 @@
 	<Property Name="varPersistentID:{9B6322A8-9BB3-4A6E-BFE4-67C58F89FDBF}" Type="Ref">/My Computer/Maintenance.lvlib/error_15</Property>
 	<Property Name="varPersistentID:{9B8E7BF8-C75E-4A25-A5E5-CE02F51CB868}" Type="Ref">/My Computer/Maintenance.lvlib/error_27</Property>
 	<Property Name="varPersistentID:{9DC6BC6D-7080-4528-827A-7DF80396EFA1}" Type="Ref">/My Computer/Maintenance.lvlib/error_87</Property>
+	<Property Name="varPersistentID:{9DE5A175-F5B5-4AFD-9878-5C05F3297C52}" Type="Ref">/My Computer/control setting.lvlib/ControlInfoD06</Property>
 	<Property Name="varPersistentID:{9F86D8FE-11C4-44D6-84D9-FF60A7EF6D83}" Type="Ref">/My Computer/D03.lvlib/projector 03</Property>
 	<Property Name="varPersistentID:{A0CD2C5B-C48F-4362-B1B3-2AC7EA76F92D}" Type="Ref">/My Computer/User Lib.lvlib/Is Dorsa?</Property>
 	<Property Name="varPersistentID:{A1D28A83-38C4-401C-A69E-065F66AE4100}" Type="Ref">/My Computer/Maintenance.lvlib/error_110</Property>
@@ -863,7 +864,7 @@
 				<Property Name="Source[37].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[37].type" Type="Str">VI</Property>
 				<Property Name="Source[38].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[38].itemID" Type="Ref">/My Computer/D01.lvlib/TrendsD26.vi</Property>
+				<Property Name="Source[38].itemID" Type="Ref">/My Computer/Dependencies/Items in Memory/TrendsD26.vi</Property>
 				<Property Name="Source[38].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[38].type" Type="Str">VI</Property>
 				<Property Name="Source[39].destinationIndex" Type="Int">0</Property>
@@ -879,7 +880,7 @@
 				<Property Name="Source[40].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[40].type" Type="Str">VI</Property>
 				<Property Name="Source[41].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[41].itemID" Type="Ref">/My Computer/D02.lvlib/TrendsD27.vi</Property>
+				<Property Name="Source[41].itemID" Type="Ref"></Property>
 				<Property Name="Source[41].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[41].type" Type="Str">VI</Property>
 				<Property Name="Source[42].destinationIndex" Type="Int">0</Property>
