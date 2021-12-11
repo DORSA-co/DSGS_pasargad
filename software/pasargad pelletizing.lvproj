@@ -223,7 +223,9 @@
 	<Property Name="varPersistentID:{F65046CC-1341-4265-987D-BDBE4785D329}" Type="Ref">/My Computer/Maintenance.lvlib/error_55</Property>
 	<Property Name="varPersistentID:{F69D1B22-5E73-4BFA-B1B0-3DF784C9934E}" Type="Ref">/My Computer/User Lib.lvlib/focus</Property>
 	<Property Name="varPersistentID:{F70F4D73-4EFF-484B-BC61-2F0075882285}" Type="Ref">/My Computer/Maintenance.lvlib/error_91</Property>
+	<Property Name="varPersistentID:{F778EE01-A1D2-4F56-9674-693F023176A1}" Type="Ref">/My Computer/D01.lvlib/calibration_array_D01</Property>
 	<Property Name="varPersistentID:{F79DE952-AB23-4C8E-80FA-A6BE2B87948B}" Type="Ref">/My Computer/Maintenance.lvlib/error_90</Property>
+	<Property Name="varPersistentID:{F7C56FC1-6669-41DA-BA8E-7D50297BD584}" Type="Ref">/My Computer/D01.lvlib/picture_address</Property>
 	<Property Name="varPersistentID:{F7E943C6-9E0A-4402-B38F-B450DBB05906}" Type="Ref">/My Computer/detectedPellet.lvlib/ViewButton</Property>
 	<Property Name="varPersistentID:{FC7FD742-3E44-48E2-A944-A7B83D04D431}" Type="Ref">/My Computer/D06.lvlib/LiveViewD06</Property>
 	<Property Name="varPersistentID:{FD699571-6399-40B2-AA2F-36993630EE7A}" Type="Ref">/My Computer/D04.lvlib/SaveD04Ok</Property>
