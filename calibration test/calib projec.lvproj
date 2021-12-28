@@ -1,13 +1,22 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
-	<Property Name="varPersistentID:{045A48F2-552F-449B-A808-83408B00D7CA}" Type="Ref">/My Computer/Dependencies/database.lvlib/Query String</Property>
+	<Property Name="varPersistentID:{0380318A-B937-4A35-9DC0-C2C32680BB58}" Type="Ref">/My Computer/Dependencies/detectedPellet.lvlib/open flag</Property>
 	<Property Name="varPersistentID:{1032A0B0-C124-4776-98A0-61C087AFCDE8}" Type="Ref">/My Computer/lib1.lvlib/address</Property>
-	<Property Name="varPersistentID:{4FE47D85-042C-4182-8643-CAA56EC33736}" Type="Ref">/My Computer/Dependencies/detectedPellet.lvlib/ViewButton</Property>
+	<Property Name="varPersistentID:{3D621D51-30C1-4175-938C-447C499F1267}" Type="Ref">/My Computer/Dependencies/database.lvlib/Query String</Property>
 	<Property Name="varPersistentID:{5B3734FB-1389-4EC6-8C36-F320BC45E0E8}" Type="Ref">/My Computer/lib1.lvlib/calibration_array</Property>
-	<Property Name="varPersistentID:{88797D0A-4831-4188-9A65-0C3F5064A05E}" Type="Ref">/My Computer/Dependencies/detectedPellet.lvlib/DetectedPelletThisVi</Property>
-	<Property Name="varPersistentID:{BC044FBC-0252-4DDE-ABFF-9C8F360A67A6}" Type="Ref">/My Computer/Dependencies/database.lvlib/ReportThisVI</Property>
-	<Property Name="varPersistentID:{C2D883C0-66B1-49B7-8FEA-589AB7400D89}" Type="Ref">/My Computer/Dependencies/detectedPellet.lvlib/open flag</Property>
-	<Property Name="varPersistentID:{E1426251-416D-4F8D-A76B-989093DD3957}" Type="Ref">/My Computer/Dependencies/database.lvlib/search</Property>
+	<Property Name="varPersistentID:{5DC9221D-9B98-4BA1-B236-D62E8CB73BC0}" Type="Ref">/My Computer/Dependencies/database.lvlib/search</Property>
+	<Property Name="varPersistentID:{7A1CB800-E94C-44C6-B0DE-9E32481E4FD7}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{88797D0A-4831-4188-9A65-0C3F5064A05E}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{952755E9-5C70-4E4B-8709-71B2DAD5473A}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{96632FE0-DE4B-414B-87CB-72004EA29FF9}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{BC044FBC-0252-4DDE-ABFF-9C8F360A67A6}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{BD2658DD-14A0-4783-9405-C3E08D3769F0}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{BFAD7BA4-AEA0-4257-A2D1-CAA5F475B56D}" Type="Ref">/My Computer/Dependencies/detectedPellet.lvlib/DetectedPelletThisVi</Property>
+	<Property Name="varPersistentID:{C1ECF0DD-CC7C-4C6E-A34F-3815DEAA3631}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{C2D883C0-66B1-49B7-8FEA-589AB7400D89}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{E1426251-416D-4F8D-A76B-989093DD3957}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{F6C9A544-D40A-4DA5-BA6D-FEBA87D2AE10}" Type="Ref">/My Computer/Dependencies/detectedPellet.lvlib/ViewButton</Property>
+	<Property Name="varPersistentID:{F84E4749-F134-4B87-AE93-8D74B37AD5B8}" Type="Ref">/My Computer/Dependencies/database.lvlib/ReportThisVI</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>

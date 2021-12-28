@@ -12,6 +12,7 @@
 	<Property Name="varPersistentID:{09FE62AB-6F80-4264-9201-835E6BBFA610}" Type="Ref">/My Computer/D06.lvlib/TrendsThisVID06</Property>
 	<Property Name="varPersistentID:{0E21A5E1-70CB-4241-A3A9-A1BB58412AE0}" Type="Ref">/My Computer/D05.lvlib/projector 05</Property>
 	<Property Name="varPersistentID:{0E3B8575-0A36-49E3-97FC-64A9631F83B1}" Type="Ref">/My Computer/Maintenance.lvlib/error_101</Property>
+	<Property Name="varPersistentID:{0E49D38C-5951-4346-BCEB-FD9C022237CB}" Type="Ref">/My Computer/D05.lvlib/picture_address_D05</Property>
 	<Property Name="varPersistentID:{0E51A04D-7A3D-4F4D-89B1-89B4A30FFB68}" Type="Ref">/My Computer/Maintenance.lvlib/error_99</Property>
 	<Property Name="varPersistentID:{0F2FBA53-2045-4301-89CB-96E045D749DF}" Type="Ref">/My Computer/Calibration Lib.lvlib/calibration factor D01</Property>
 	<Property Name="varPersistentID:{112B0984-EA5E-4594-8977-27BC2CFC506E}" Type="Ref">/My Computer/Maintenance.lvlib/error_106</Property>
@@ -21,6 +22,7 @@
 	<Property Name="varPersistentID:{160ECB30-231C-47FE-ACB1-B66DBB42D9AE}" Type="Ref">/My Computer/Maintenance.lvlib/error_75</Property>
 	<Property Name="varPersistentID:{16C039D2-A8FD-4EC5-9D87-B5667DB20A48}" Type="Ref">/My Computer/D01.lvlib/TrendsThisVID01</Property>
 	<Property Name="varPersistentID:{174B27B1-3A84-43EF-8C29-FFDFFC380422}" Type="Ref">/My Computer/Calibration Lib.lvlib/calibration matrix D04</Property>
+	<Property Name="varPersistentID:{175EF8B0-5527-49DB-9FAC-614463255369}" Type="Ref">/My Computer/D04.lvlib/calibration_array_D04</Property>
 	<Property Name="varPersistentID:{1785B8A9-2B79-45E6-8F89-234560E8E3AA}" Type="Ref">/My Computer/D04.lvlib/D04thisVI</Property>
 	<Property Name="varPersistentID:{17F29134-1CF8-4610-A9E2-3AF6B9264927}" Type="Ref">/My Computer/control setting.lvlib/ControlInfoD04</Property>
 	<Property Name="varPersistentID:{186C3D91-C550-416E-B113-A2800E715325}" Type="Ref">/My Computer/control setting.lvlib/ControlInfoD02</Property>
@@ -33,6 +35,7 @@
 	<Property Name="varPersistentID:{214073E2-A2EC-402E-80C4-2854CC630F27}" Type="Ref">/My Computer/Maintenance.lvlib/error_50</Property>
 	<Property Name="varPersistentID:{21417B2A-4AB7-43F6-953E-2BC9C3E4907E}" Type="Ref">/My Computer/D04.lvlib/SaveD04</Property>
 	<Property Name="varPersistentID:{22593AFF-7C01-479C-9EAA-09CF9343F6D6}" Type="Ref">/My Computer/Maintenance.lvlib/error_102</Property>
+	<Property Name="varPersistentID:{23E0D563-6E29-400B-B28D-1B9FD94D9C95}" Type="Ref">/My Computer/D03.lvlib/calibration_array_D03</Property>
 	<Property Name="varPersistentID:{2522E44A-CA96-4EFA-A138-CCFD6989A2DC}" Type="Ref">/My Computer/control setting.lvlib/SetPoints</Property>
 	<Property Name="varPersistentID:{25BD5300-DAE4-4C65-9103-C71B8400DFA9}" Type="Ref">/My Computer/D06.lvlib/projector 06</Property>
 	<Property Name="varPersistentID:{26E50EF9-5A81-41E1-B50C-9A9BEAAEF71C}" Type="Ref">/My Computer/Maintenance.lvlib/error_113</Property>
@@ -60,6 +63,7 @@
 	<Property Name="varPersistentID:{36F30817-B4AB-4E78-9511-85BF8E89CEAB}" Type="Ref">/My Computer/D01.lvlib/projector 01</Property>
 	<Property Name="varPersistentID:{38AC95A7-3F49-4260-945C-ABFE6792D7C0}" Type="Ref">/My Computer/Setting Lib.lvlib/settingthisVI</Property>
 	<Property Name="varPersistentID:{39F55AE9-058B-4662-9B76-DD7BBD4471DD}" Type="Ref">/My Computer/User Lib.lvlib/Login</Property>
+	<Property Name="varPersistentID:{3A9B68B1-19E2-41D4-9C61-BB442C9DE81A}" Type="Ref">/My Computer/D06.lvlib/calibration_array_D06</Property>
 	<Property Name="varPersistentID:{3B6419A2-51C3-4062-A31E-96DCECDE3E46}" Type="Ref">/My Computer/D03.lvlib/LiveViewD03</Property>
 	<Property Name="varPersistentID:{3B73711E-B395-4D84-B43E-24097AE715FF}" Type="Ref">/My Computer/Maintenance.lvlib/error_4</Property>
 	<Property Name="varPersistentID:{3C0B1A1F-1018-4509-8DA7-19F3CE3E3B07}" Type="Ref">/My Computer/Maintenance.lvlib/error_23</Property>
@@ -174,6 +178,7 @@
 	<Property Name="varPersistentID:{B816FFE2-A79C-4869-B6CA-D97867FA5E67}" Type="Ref">/My Computer/Maintenance.lvlib/error_3</Property>
 	<Property Name="varPersistentID:{B948D5AF-4A86-4DB9-A1C0-59ED79CEB630}" Type="Ref">/My Computer/Maintenance.lvlib/error_104</Property>
 	<Property Name="varPersistentID:{B9ADA98C-889D-4F9E-8AB4-591C30878E87}" Type="Ref">/My Computer/Maintenance.lvlib/error_2</Property>
+	<Property Name="varPersistentID:{B9E2010B-B85E-487A-8690-97CBDE5C8F40}" Type="Ref">/My Computer/D03.lvlib/picture_address_D03</Property>
 	<Property Name="varPersistentID:{BBDA76EC-9256-4363-ACA2-17238129548D}" Type="Ref">/My Computer/D04.lvlib/projector 04</Property>
 	<Property Name="varPersistentID:{BC3CC7A3-1738-4BA9-9358-8A541980214A}" Type="Ref">/My Computer/Maintenance.lvlib/error_24</Property>
 	<Property Name="varPersistentID:{BDD0D7E4-FC11-4234-AE8D-9EA425087EA3}" Type="Ref">/My Computer/Calibration Lib.lvlib/calibration factor D02</Property>
@@ -200,8 +205,10 @@
 	<Property Name="varPersistentID:{D49D6CF2-CCF3-4C22-9F65-C2B20CFB4B81}" Type="Ref">/My Computer/Maintenance.lvlib/error_41</Property>
 	<Property Name="varPersistentID:{D52F6EE0-25C8-4BE1-B5C4-09305971F6C1}" Type="Ref">/My Computer/Maintenance.lvlib/error_67</Property>
 	<Property Name="varPersistentID:{D5E2DE75-71B4-43D9-B307-AECF93A960AE}" Type="Ref">/My Computer/Maintenance.lvlib/error_26</Property>
+	<Property Name="varPersistentID:{D72B62EA-CA98-444D-BDEC-3AD7F32758C2}" Type="Ref">/My Computer/D06.lvlib/picture_address_D06</Property>
 	<Property Name="varPersistentID:{D85BF98F-A812-4AC5-A55E-26646DC57560}" Type="Ref">/My Computer/Maintenance.lvlib/error_112</Property>
 	<Property Name="varPersistentID:{DA6F16F8-DEAC-4192-93D6-8F4D62ED80D5}" Type="Ref">/My Computer/Maintenance.lvlib/error_28</Property>
+	<Property Name="varPersistentID:{DABA1E3D-56B7-40D8-B9B4-32B737451265}" Type="Ref">/My Computer/D04.lvlib/picture_address_D04</Property>
 	<Property Name="varPersistentID:{DCD71A64-9BD4-4899-B33D-C060A744F439}" Type="Ref">/My Computer/Maintenance.lvlib/error_38</Property>
 	<Property Name="varPersistentID:{E14DEA7E-3A99-4C03-9CEF-B435D9A3E0E0}" Type="Ref">/My Computer/Maintenance.lvlib/error_108</Property>
 	<Property Name="varPersistentID:{E2EA48FD-B310-40C4-BCAB-FC0D16BABC1F}" Type="Ref">/My Computer/Calibration Lib.lvlib/calibration matrix D03</Property>
@@ -218,17 +225,19 @@
 	<Property Name="varPersistentID:{EE7EC089-15C9-44F6-BCA5-F4675896AE1B}" Type="Ref">/My Computer/D01.lvlib/PelletDetectedD 01</Property>
 	<Property Name="varPersistentID:{F1A49FF6-5D0B-4EF4-A9B4-7DDF18E92510}" Type="Ref">/My Computer/Maintenance.lvlib/error_92</Property>
 	<Property Name="varPersistentID:{F1F16716-DB18-4A2F-B300-02103060D052}" Type="Ref">/My Computer/Maintenance.lvlib/error_81</Property>
+	<Property Name="varPersistentID:{F3A38E89-90A6-4A1E-A257-E691A8C50781}" Type="Ref">/My Computer/D02.lvlib/picture_address_D02</Property>
 	<Property Name="varPersistentID:{F412B194-28B0-48B7-9BFE-04B78CB3C670}" Type="Ref">/My Computer/Maintenance.lvlib/error_53</Property>
 	<Property Name="varPersistentID:{F52B7417-C3EA-4C98-9788-6A7AC0A426A8}" Type="Ref">/My Computer/D05.lvlib/GradingThrD05</Property>
+	<Property Name="varPersistentID:{F5BD04F3-68E3-4B1D-AD5C-4CA02F5B2F2F}" Type="Ref">/My Computer/D05.lvlib/calibration_array_D05</Property>
 	<Property Name="varPersistentID:{F65046CC-1341-4265-987D-BDBE4785D329}" Type="Ref">/My Computer/Maintenance.lvlib/error_55</Property>
 	<Property Name="varPersistentID:{F69D1B22-5E73-4BFA-B1B0-3DF784C9934E}" Type="Ref">/My Computer/User Lib.lvlib/focus</Property>
 	<Property Name="varPersistentID:{F70F4D73-4EFF-484B-BC61-2F0075882285}" Type="Ref">/My Computer/Maintenance.lvlib/error_91</Property>
 	<Property Name="varPersistentID:{F778EE01-A1D2-4F56-9674-693F023176A1}" Type="Ref">/My Computer/D01.lvlib/calibration_array_D01</Property>
 	<Property Name="varPersistentID:{F79DE952-AB23-4C8E-80FA-A6BE2B87948B}" Type="Ref">/My Computer/Maintenance.lvlib/error_90</Property>
-	<Property Name="varPersistentID:{F7C56FC1-6669-41DA-BA8E-7D50297BD584}" Type="Ref">/My Computer/D01.lvlib/picture_address</Property>
 	<Property Name="varPersistentID:{F7E943C6-9E0A-4402-B38F-B450DBB05906}" Type="Ref">/My Computer/detectedPellet.lvlib/ViewButton</Property>
 	<Property Name="varPersistentID:{FC7FD742-3E44-48E2-A944-A7B83D04D431}" Type="Ref">/My Computer/D06.lvlib/LiveViewD06</Property>
 	<Property Name="varPersistentID:{FD699571-6399-40B2-AA2F-36993630EE7A}" Type="Ref">/My Computer/D04.lvlib/SaveD04Ok</Property>
+	<Property Name="varPersistentID:{FD9E0002-BB8E-4526-900B-58FF7F010BFE}" Type="Ref">/My Computer/D02.lvlib/calibration_array_D02</Property>
 	<Property Name="varPersistentID:{FDE96C69-B38A-4E3C-8C12-FEEFE126E6BE}" Type="Ref">/My Computer/Maintenance.lvlib/error_57</Property>
 	<Property Name="varPersistentID:{FE6543C0-A418-4B99-A88B-39DBC2E4B526}" Type="Ref">/My Computer/Maintenance.lvlib/error_76</Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -587,6 +596,9 @@
 				<Item Name="NI_HTML.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Utility/NIReport.llb/HTML/NI_HTML.lvclass"/>
 				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
 				<Item Name="NI_MAPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MAPro.lvlib"/>
+				<Item Name="NI_MASM_BasicLinAlg.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Multicore Analysis and Sparse Matrix/Linear Algebra/NI_MASM_BasicLinAlg.lvlib"/>
+				<Item Name="NI_MASM_Utility.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Multicore Analysis and Sparse Matrix/_utility/NI_MASM_Utility.lvlib"/>
+				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="NI_report.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Utility/NIReport.llb/NI_report.lvclass"/>
 				<Item Name="NI_ReportGenerationCore.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/NIReport.llb/NI_ReportGenerationCore.lvlib"/>
@@ -681,6 +693,7 @@
 			<Item Name="lvStorage.dll" Type="Document" URL="lvStorage.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="MASMT_LINALG.dll" Type="Document" URL="/&lt;resource&gt;/MASMT_LINALG.dll"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

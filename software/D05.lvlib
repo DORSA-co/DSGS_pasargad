@@ -7,17 +7,24 @@
 	<Item Name="AvgResultD05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">AvgResultD05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Global</Property>
 		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!R,1!!!"E!A!!!!!!#!!5!#A!!&amp;%"!!!(`````!!!(98*S98EA-A!"!!%!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="calibration_array_D05" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"(1Q!!!"E!A!!!!!!#!!V!#A!(:7RF&lt;76O&gt;!!?1%!!!P``````````!!!-&lt;X6U=(6U)'&amp;S=G&amp;Z!!!"!!%!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="D05thisVI" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">D05thisVI</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -27,7 +34,6 @@
 	<Item Name="GradingThrD05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">GradingThrD05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -38,7 +44,6 @@
 	<Item Name="LiveResultD05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">LiveResultD05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -48,7 +53,6 @@
 	<Item Name="LiveViewD05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">LiveViewD05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -58,7 +62,6 @@
 	<Item Name="number of pellet 05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">number of pellet 05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -68,17 +71,24 @@
 	<Item Name="PelletDetectedD05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">PelletDetectedD05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Global</Property>
 		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;G1!!!"E!A!!!!!!#!#!!.`````]!"2E!A!!!!!!"!!1!!!!"!!!!!!!!!!!!/%"Q!"U*35V"55FN97&gt;F!!%!!!F*45&amp;237VB:W5:!)!!!!!!!1!%!!!!!1!!!!!!!!6*&lt;7&amp;H:1!"!!%!!!!!!!!!#GZJ&gt;GFT=X:D,CI!!!!44&amp;:@37VB:W6%6%.M98.T37ZG&lt;Q!!!!%!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="picture_address_D05" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"%1!!!!"E!A!!!!!!#!""!-0````]'5X2S;7ZH!!!=1%!!!@````]!!!^"=H*B?3"P:C"4&gt;(*J&lt;G=!!1!"!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="projector 05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">projector 05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -88,7 +98,6 @@
 	<Item Name="SaveD05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">SaveD05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -98,7 +107,6 @@
 	<Item Name="SaveD05Ok" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">SaveD05Ok</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -109,7 +117,6 @@
 	<Item Name="TrendsThisVID05" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="name" Type="Str">TrendsThisVID05</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>

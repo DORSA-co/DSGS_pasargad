@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="AvgResultD02" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
@@ -12,6 +13,15 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Global</Property>
 		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!R,1!!!"E!A!!!!!!#!!5!#A!!&amp;%"!!!(`````!!!(98*S98EA-A!"!!%!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="calibration_array_D02" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"(1Q!!!"E!A!!!!!!#!!V!#A!(:7RF&lt;76O&gt;!!?1%!!!P``````````!!!-&lt;X6U=(6U)'&amp;S=G&amp;Z!!!"!!%!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="D02thisVI" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
@@ -67,6 +77,15 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Global</Property>
 		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;G1!!!"E!A!!!!!!#!#!!.`````]!"2E!A!!!!!!"!!1!!!!"!!!!!!!!!!!!/%"Q!"U*35V"55FN97&gt;F!!%!!!F*45&amp;237VB:W5:!)!!!!!!!1!%!!!!!1!!!!!!!!6*&lt;7&amp;H:1!"!!%!!!!!!!!!#GZJ&gt;GFT=X:D,CI!!!!44&amp;:@37VB:W6%6%.M98.T37ZG&lt;Q!!!!%!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="picture_address_D02" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"%1!!!!"E!A!!!!!!#!""!-0````]'5X2S;7ZH!!!=1%!!!@````]!!!^"=H*B?3"P:C"4&gt;(*J&lt;G=!!1!"!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="projector 02" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
