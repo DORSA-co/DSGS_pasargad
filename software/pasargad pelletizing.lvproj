@@ -168,6 +168,7 @@
 	<Property Name="varPersistentID:{ABB54C08-D1DA-4A9B-B2A8-BA305577C62E}" Type="Ref">/My Computer/D05.lvlib/PelletDetectedD05</Property>
 	<Property Name="varPersistentID:{ACA77B26-39FD-49D0-8F4C-16A67F001D76}" Type="Ref">/My Computer/Maintenance.lvlib/error_86</Property>
 	<Property Name="varPersistentID:{ADCAE426-CA6A-4184-B837-79374F6405B4}" Type="Ref">/My Computer/D05.lvlib/SaveD05</Property>
+	<Property Name="varPersistentID:{AE92D74E-79F8-4DE6-A5A1-CA6FFB161073}" Type="Ref">/My Computer/D01.lvlib/picture_address_D01</Property>
 	<Property Name="varPersistentID:{B010221D-5532-4AE6-8718-9B602E69FC8B}" Type="Ref">/My Computer/Maintenance.lvlib/error_17</Property>
 	<Property Name="varPersistentID:{B2679623-4E41-44FB-A85E-1C8842848EFE}" Type="Ref">/My Computer/Maintenance.lvlib/error_83</Property>
 	<Property Name="varPersistentID:{B3CE3441-6110-4000-87E2-3107BF9AD023}" Type="Ref">/My Computer/D06.lvlib/PelletDetectedD06</Property>
@@ -319,6 +320,7 @@
 		<Item Name="speed control setting.vi" Type="VI" URL="../speed control setting.vi"/>
 		<Item Name="square waveform.vi" Type="VI" URL="../square waveform.vi"/>
 		<Item Name="trends.lvlib" Type="Library" URL="../trends.lvlib"/>
+		<Item Name="Untitled 1.vi" Type="VI" URL="../../Untitled 1.vi"/>
 		<Item Name="User Lib.lvlib" Type="Library" URL="../User Lib.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
@@ -404,6 +406,7 @@
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Built App File Layout.vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/Built App File Layout.vi"/>
 				<Item Name="Calc Long Word Padded Width.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Calc Long Word Padded Width.vi"/>
+				<Item Name="Calculate Frames per Second.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Calculate Frames per Second.vi"/>
 				<Item Name="Check Color Table Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Color Table Size.vi"/>
 				<Item Name="Check Data Size.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Data Size.vi"/>
 				<Item Name="Check File Permissions.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check File Permissions.vi"/>

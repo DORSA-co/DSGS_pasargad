@@ -4,8 +4,6 @@ import cv2
 
 
 DEBUG = False
-
-
 def draw_contour(gray, cnts):
     img = cv2.cvtColor(gray, cv2.COLOR_GRAY2BGR)
     img = cv2.drawContours( img, cnts , -1, (0,0,255), thickness=3)
@@ -31,11 +29,13 @@ def imshow(name, img):
 
     
 
-def extract_info( gray, areas_mm , min_area=2000, max_area=50000 , accuracy = 0.9 ):
+def extract_info( gray, areas_mm , min_area=20000, max_area=800000 , accuracy = 0.9 ):
     nrects = len(areas_mm)
     areas_mm = list(areas_mm)
     gray = np.array(gray, dtype=np.uint8)
-    _,mask = cv2.threshold(gray, 100, 255, cv2.THRESH_BINARY)
+    #_,mask = cv2.threshold(gray, 200, 255, cv2.THRESH_BINARY)
+    mask = cv2.adaptiveThreshold( gray, 255, cv2.ADAPTIVE_THRESH_MEAN_C,
+                                  cv2.THRESH_BINARY, 301,11)
 
     if DEBUG:
         imshow('mask', mask)

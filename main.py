@@ -13,7 +13,7 @@ import os
 path = 'imgs_final/'
 DEBUG = False
 DEBUG2 = False
-def get_circels(img,accuracy=0.4, min_area=120,max_area = 2000, bias=20):
+def get_circels(img,accuracy=0.4, min_area=120,max_area = 2000, bias=35):
 
     img = np.array(img,dtype=np.uint8)
     if len(img.shape)==3 :
